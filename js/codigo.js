@@ -9,6 +9,8 @@ botao.addEventListener('click', () => {
     }
     let altura = document.getElementById('altura').value
     let peso = document.getElementById('peso').value
+    altura = altura.replace(",", ".")
+    peso = peso.replace(",", ".")
     let imc = parseFloat(peso) / ((parseFloat(altura) * parseFloat(altura)))
     console.log(imc)
     let result = document.createElement('p')
