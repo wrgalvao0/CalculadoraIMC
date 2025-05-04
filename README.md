@@ -1,4 +1,4 @@
-# CalculadoraIMC
+# CALCULADORA DE ÍNDICE DE MASSA CORPORAL
 
 Este projeto é uma aplicação simples de uma **Calculadora de IMC (Índice de Massa Corporal)** desenvolvida com HTML, CSS e JavaScript. A calculadora permite que os usuários insiram sua altura (em metros) e peso (em quilogramas) para calcular o IMC e exibir a classificação correspondente, como "Magreza", "Normal", "Sobrepeso", "Obesidade" ou "Obesidade Grave".
 
