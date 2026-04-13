@@ -69,4 +69,4 @@ Este projeto não possui uma licença específica.
 
 ## 👤 Autor
 
-Desenvolvido por [wrgalvao]. Para mais informações, visite o [perfil no GitHub](https://github.com/wrgalvao0).
+Desenvolvido por wrgalvao. Para mais informações, visite o [perfil no GitHub](https://github.com/wrgalvao0).
