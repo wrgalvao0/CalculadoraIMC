@@ -65,8 +65,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Este projeto não possui uma licença específica.
 
 ## 👤 Autor
 
-Desenvolvido por [Seu Nome ou wrgalvao0]. Para mais informações, visite o [perfil no GitHub](https://github.com/wrgalvao0).
+Desenvolvido por [wrgalvao]. Para mais informações, visite o [perfil no GitHub](https://github.com/wrgalvao0).
